@@ -1,2 +1,2 @@
 # Portfolio
-コードは各フォルダからAsset/Script/*.csから確認できます
+コードは各フォルダからAsset/Scripts/*.csから確認できます
