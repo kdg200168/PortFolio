@@ -13,7 +13,7 @@ Unityを使用して制作しました。
 動画はこちら  
 https://youtube.com/playlist?list=PL4mk8sDbTnfFLf5r35GmyeEkHumdufL2U  
   
-<img width="578" alt="SpaceWarsTitle" src="https://user-images.githubusercontent.com/71370181/111786821-90aa8900-8901-11eb-9ecd-ce28a008e145.png">
+<img width="578" alt="SpaceWarsTitle" src="https://user-images.githubusercontent.com/71370181/111786821-90aa8900-8901-11eb-9ecd-ce28a008e145.png">　　
 
 <img width="578" alt="SpaceWarsPlay01" src="https://user-images.githubusercontent.com/71370181/111785439-f564e400-88ff-11eb-8e43-ab62a63ab192.png">  <img width="600" alt="SpaceWarsGameClear" src="https://user-images.githubusercontent.com/71370181/111785459-fac22e80-88ff-11eb-9d6c-f8157265adf3.png">  
 <img width="602" alt="SpaceWarsGameOver" src="https://user-images.githubusercontent.com/71370181/111785495-06155a00-8900-11eb-9a24-f149e0870595.png">  
