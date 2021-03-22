@@ -7,6 +7,7 @@ Unityを使用して制作しました。
 マウス操作 ボタンクリック(ボタンクリックのみ)  
 キー操作　WASDキー　プレイヤー移動,  
           SPACEキー　ジャンプ,壁登り  
+          Cキー　しゃがみ  
             
 動画はこちら  
 https://youtube.com/playlist?list=PL4mk8sDbTnfGBu5yQ2egvxjcBV2cM0Psi  
