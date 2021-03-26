@@ -12,6 +12,8 @@ Unityを使用して制作しました
           Q,Eキー　カメラ横回転  
           Escキー 一時停止(プレイ画面中のみ)  
             
+実行ファイルはこちらからDLできます。  
+https://drive.google.com/drive/folders/1-lu9F6yoUp85-4gvxgEnJX69CBQ-Ioqk?usp=sharing  
 プレイ動画はこちら  
 https://youtu.be/PfBH8LtmW_E  
   
