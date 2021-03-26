@@ -7,7 +7,7 @@ mapファイルで生成したマップを横スクロールさせ、重力落�
 ↑キー　上昇,　←→キー　左右移動, Pキー ゲームスタート,　Rキー　リトライ  
   
 実行ファイルはこちらからDLできます。  
-https://drive.google.com/drive/folders/16HojGzrKFsvvSejeAwmMxIH3pYID-xf0?usp=sharing
+https://drive.google.com/drive/folders/16HojGzrKFsvvSejeAwmMxIH3pYID-xf0?usp=sharing  
 動画はこちら  
 https://youtu.be/2UW2zgumMok  
 <img width="640" alt="スクリーンショット 2020-11-25 15 33 49" src="https://user-images.githubusercontent.com/71370181/112667057-2913b100-8ea0-11eb-8096-2f8516a2e467.png">
