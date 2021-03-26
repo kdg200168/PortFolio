@@ -9,7 +9,9 @@ Unityを使用して制作しました。
 キー操作　WASDキー　プレイヤー移動,  
           SPACEキー　ジャンプ,壁登り  
           Cキー　しゃがみ  
-            
+
+実行ファイルはこちらからDLできます。
+https://drive.google.com/drive/folders/1Ch30dWgQWaB6tzLIcA8MOA_afOIEjj5m?usp=sharing  
 動画はこちら  
 https://youtube.com/playlist?list=PL4mk8sDbTnfGBu5yQ2egvxjcBV2cM0Psi  
   
