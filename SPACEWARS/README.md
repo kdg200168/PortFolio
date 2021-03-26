@@ -11,6 +11,8 @@ Unityを使用して制作しました。
         Zキー　減速  
         SPACEキー 自弾発射  
             
+実行ファイルはこちらからDLできます。  
+https://drive.google.com/drive/folders/1JnvqTRZo_mEiLQISxvYBhI7mbDw2qZAx?usp=sharing  
 動画はこちら  
 https://youtube.com/playlist?list=PL4mk8sDbTnfFLf5r35GmyeEkHumdufL2U  
   
