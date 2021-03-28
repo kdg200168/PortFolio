@@ -19,7 +19,7 @@
             
 実行ファイルはこちらからDLできます。  
 https://drive.google.com/drive/folders/1JnvqTRZo_mEiLQISxvYBhI7mbDw2qZAx?usp=sharing  
-動画はこちらから閲覧できます。 
+動画はこちらから閲覧できます。   
 https://youtube.com/playlist?list=PL4mk8sDbTnfFLf5r35GmyeEkHumdufL2U  
   
 <img width="578" alt="SpaceWarsTitle" src="https://user-images.githubusercontent.com/71370181/111786821-90aa8900-8901-11eb-9ecd-ce28a008e145.png">　　
