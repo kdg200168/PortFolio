@@ -20,7 +20,7 @@
 
 実行ファイルはこちらからDLできます。  
 https://drive.google.com/drive/folders/1Ch30dWgQWaB6tzLIcA8MOA_afOIEjj5m?usp=sharing  
-動画はこちら  
+動画はこちらから閲覧できます。  
 https://youtube.com/playlist?list=PL4mk8sDbTnfGBu5yQ2egvxjcBV2cM0Psi  
   
   ![TreasureTitle](https://user-images.githubusercontent.com/71370181/111797792-ce60df00-890c-11eb-85b2-bf50f2a1a0ef.png)  
