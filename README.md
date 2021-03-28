@@ -8,4 +8,4 @@ https://drive.google.com/drive/folders/1xve51bUQyvip5uZRoIGy4YypBEaFK0Pd?usp=sha
   
 ポートフォリオサイトも作成しております。  
 もしよろしければ閲覧してみてください。  
-https://kdg200168.github.io/Portfolio/  
+
