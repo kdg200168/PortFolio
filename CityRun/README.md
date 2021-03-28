@@ -20,7 +20,7 @@ DOTWEENを使用したUIのアニメーションの実装,Rayを使用してプ�
     
 実行ファイルはこちらからDLできます。  
 https://drive.google.com/drive/folders/1-lu9F6yoUp85-4gvxgEnJX69CBQ-Ioqk?usp=sharing  
-プレイ動画はこちら  
+動画はこちらから閲覧できます。  
 https://youtu.be/PfBH8LtmW_E  
   
   ![CityRunTitle](https://user-images.githubusercontent.com/71370181/111796425-82616a80-890b-11eb-9329-775651244ef0.png)  
