@@ -23,6 +23,7 @@
 ### 実行ファイルなど
 実行ファイルはこちらからDLできます。  
 [実行ファイルフォルダ](https://drive.google.com/drive/folders/1JnvqTRZo_mEiLQISxvYBhI7mbDw2qZAx?usp=sharing)  
+<br>
 動画はこちらから閲覧できます。   
 [プレイ動画](https://youtube.com/playlist?list=PL4mk8sDbTnfFLf5r35GmyeEkHumdufL2U)  
 <br>
@@ -31,6 +32,3 @@
 <img width="400" alt="SpaceWarsBoss01" src="https://user-images.githubusercontent.com/71370181/111787218-07478680-8902-11eb-87bb-c419e043a66c.png">
 <img width="400" alt="SpaceWarsGameClear" src="https://user-images.githubusercontent.com/71370181/111785459-fac22e80-88ff-11eb-9d6c-f8157265adf3.png">
 <img width="400" alt="SpaceWarsGameOver" src="https://user-images.githubusercontent.com/71370181/111785495-06155a00-8900-11eb-9a24-f149e0870595.png">
- 
-
-
