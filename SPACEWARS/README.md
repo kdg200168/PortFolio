@@ -1,6 +1,8 @@
 開発環境 Unity  
                                           
 使用言語 C#  
+  
+対応プラットフォーム　mac,linux/windows  
                                           
 制作期間 1ヶ月  
                                        
