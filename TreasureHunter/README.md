@@ -1,8 +1,8 @@
 # トレジャーハンター
 開発環境 Unity    
-<br>
+
 使用言語 C#  
-<br>
+
 対応プラットフォーム mac,linux / windows
 <br>
 制作期間 1ヶ月
