@@ -1,6 +1,10 @@
+# シティラン
+
 開発環境 Unity  
                                           
 使用言語 C#  
+  
+対応プラットフォーム mac,linux / windows  
                                   
 制作期間 3ヶ月  
                                       
@@ -19,9 +23,9 @@
 DOTWEENを使用したUIのアニメーションの実装,Rayを使用してプレイヤーの壁走りや壁キックの実装、SQLiteを使用し最速クリア時間の保存と更新を行える様にしました。    
     
 実行ファイルはこちらからDLできます。  
-https://drive.google.com/drive/folders/1-lu9F6yoUp85-4gvxgEnJX69CBQ-Ioqk?usp=sharing  
+[実行ファイルフォルダ](https://drive.google.com/drive/folders/1-lu9F6yoUp85-4gvxgEnJX69CBQ-Ioqk?usp=sharing)  
 動画はこちらから閲覧できます。  
-https://youtu.be/PfBH8LtmW_E  
+[プレイ動画](https://youtu.be/PfBH8LtmW_E)  
   
  <img width="400" src="https://user-images.githubusercontent.com/71370181/111796425-82616a80-890b-11eb-9329-775651244ef0.png">  
   <img width="400" src="https://user-images.githubusercontent.com/71370181/111796446-87beb500-890b-11eb-82df-04e3f2ed65f0.png">  
