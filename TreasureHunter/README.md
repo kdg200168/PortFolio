@@ -22,10 +22,12 @@
 ### 実行ファイルなど
 実行ファイルはこちらからDLできます。<br>
 [実行ファイルフォルダ](https://drive.google.com/drive/folders/1Ch30dWgQWaB6tzLIcA8MOA_afOIEjj5m?usp=sharing)
-動画はこちらから閲覧できます。<br>
+<br>
+動画はこちらから閲覧できます。
+<br>
 [プレイ動画](https://youtube.com/playlist?list=PL4mk8sDbTnfGBu5yQ2egvxjcBV2cM0Psi)
 <br>
- <img width="400" src="https://user-images.githubusercontent.com/71370181/111797792-ce60df00-890c-11eb-85b2-bf50f2a1a0ef.png">  
-<img width="400" src="https://user-images.githubusercontent.com/71370181/111797748-c6a13a80-890c-11eb-9e40-0599a1d3ac93.png">  
- <img width="400" src="https://user-images.githubusercontent.com/71370181/111797805-d15bcf80-890c-11eb-8fb6-ee7bf8d19540.png">  
-  <img width="400" src="https://user-images.githubusercontent.com/71370181/111797836-d7ea4700-890c-11eb-8594-556863f77c2f.png">
+<img width="400" src="https://user-images.githubusercontent.com/71370181/111797792-ce60df00-890c-11eb-85b2-bf50f2a1a0ef.png">
+<img width="400" src="https://user-images.githubusercontent.com/71370181/111797748-c6a13a80-890c-11eb-9e40-0599a1d3ac93.png">
+<img width="400" src="https://user-images.githubusercontent.com/71370181/111797805-d15bcf80-890c-11eb-8fb6-ee7bf8d19540.png">
+<img width="400" src="https://user-images.githubusercontent.com/71370181/111797836-d7ea4700-890c-11eb-8594-556863f77c2f.png">
