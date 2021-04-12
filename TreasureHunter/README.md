@@ -20,9 +20,9 @@
 ゲームオーバー条件は即死エリアに落下(川),高所からの落下による過度なダメージ,制限時間を超えたらゲームオーバーになります。  
 プレイヤーのアニメーション遷移とプレイヤーが壁を登る挙動の実装,プレイ画面上では制限時間を表示させず、日が沈む演出で制限時間実装を頑張って制作しました。  
 ### 実行ファイルなど
-実行ファイルはこちらからDLできます。
+実行ファイルはこちらからDLできます。<br>
 [実行ファイルフォルダ](https://drive.google.com/drive/folders/1Ch30dWgQWaB6tzLIcA8MOA_afOIEjj5m?usp=sharing)
-動画はこちらから閲覧できます。
+動画はこちらから閲覧できます。<br>
 [プレイ動画](https://youtube.com/playlist?list=PL4mk8sDbTnfGBu5yQ2egvxjcBV2cM0Psi)
 <br>
  <img width="400" src="https://user-images.githubusercontent.com/71370181/111797792-ce60df00-890c-11eb-85b2-bf50f2a1a0ef.png">  
