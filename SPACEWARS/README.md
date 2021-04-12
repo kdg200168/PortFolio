@@ -18,9 +18,9 @@
 自機の動きと残機の実装を頑張って製作しました。  
             
 実行ファイルはこちらからDLできます。  
-https://drive.google.com/drive/folders/1JnvqTRZo_mEiLQISxvYBhI7mbDw2qZAx?usp=sharing  
+[実行ファイルフォルダ](https://drive.google.com/drive/folders/1JnvqTRZo_mEiLQISxvYBhI7mbDw2qZAx?usp=sharing)  
 動画はこちらから閲覧できます。   
-https://youtube.com/playlist?list=PL4mk8sDbTnfFLf5r35GmyeEkHumdufL2U  
+[プレイ動画](https://youtube.com/playlist?list=PL4mk8sDbTnfFLf5r35GmyeEkHumdufL2U)  
   
 <img width="400" alt="SpaceWarsTitle" src="https://user-images.githubusercontent.com/71370181/111786821-90aa8900-8901-11eb-9ecd-ce28a008e145.png">
 <img width="400" alt="SpaceWarsPlay01" src="https://user-images.githubusercontent.com/71370181/111785439-f564e400-88ff-11eb-8e43-ab62a63ab192.png">
