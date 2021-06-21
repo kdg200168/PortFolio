@@ -6,32 +6,32 @@ using UnityEngine.SceneManagement;
 public class PlayerController : MonoBehaviour
 {
     [SerializeField]
-    private float walkSpeed = 4.5f;
+    private float walkSpeed = 4.5f;　//歩く速度
     [SerializeField]
-    private float crouchSpeed = 1.0f;
+    private float crouchSpeed = 1.0f; //しゃがみ移動速度
     [SerializeField]
-    private float climbSpeed = 1f;
+    private float climbSpeed = 1f; //壁登り速度
     [SerializeField]
-    private float hangSpeed = 1f;
+    private float hangSpeed = 1f; //掴み移動速度
     [SerializeField, Range(0.1f, 50f)]
-    private float angleSpeed = 5.6f;
+    private float angleSpeed = 5.6f;　//振り向き速度
     private Animator animator;
     public float JumpPower = 4;
-    private bool OnGround;
+    private bool OnGround; //床判定
     private Rigidbody rb;
-    private bool crouch;
-    private bool CanHang;
-    private bool CanGrab;
-    private bool jump;
-    private bool run;
-    private bool climbing;
-    public bool dead;
-    private bool hanging;
-    public bool Clear;
+    private bool crouch;    //しゃがみ判定
+    private bool CanHang; //掴める場所の判定
+    private bool CanGrab;   //掴める壁の判定
+    private bool jump;  //ジャンプ判定
+    private bool run; //移動判定
+    private bool climbing;　//壁登り判定
+    public bool dead;　//死亡判定
+    private bool hanging; //掴んでいる状態判定
+    public bool Clear; //クリア判定
     private float power;
     private readonly float epsilon = 0.00001f;
-    private new CapsuleCollider collider;
-    private Timer timer;
+    private new CapsuleCollider collider; //しゃがみ時にコライダー制御用
+    private Timer timer; //制限時間のスクリプト
  
 
 
